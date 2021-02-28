@@ -5,6 +5,7 @@ from tkinter import filedialog
 root = Tk()
 root.geometry('800x500+500+200')
 root.title('Text Editor')
+root.iconbitmap('nt.ico')
 
 
 def add_str():
